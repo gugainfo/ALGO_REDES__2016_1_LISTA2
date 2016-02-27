@@ -1,0 +1,11 @@
+ALGORITIMO soma
+
+DECLARE A numérico, B numérico
+
+LEIA A, B
+
+X <- A + B
+
+ESCREVA "X=", X
+
+FIM_ALGORITMO
